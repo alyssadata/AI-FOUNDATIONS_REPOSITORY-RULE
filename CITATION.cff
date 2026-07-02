@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Cite this work as: Alyssa Solen, AI Foundations Repository Rule, 2026."
+title: "AI Foundations Repository Rule"
+version: "1.0.0"
+date-released: "2026-07-02"
+authors:
+  - family-names: "Solen"
+    given-names: "Alyssa"
+license: "CC-BY-ND-4.0"
+repository-code: "https://github.com/alyssadata/AI-FOUNDATIONS_REPOSITORY-RULE"
+url: "https://awakeningcodex.com"
